@@ -1,6 +1,4 @@
-Here's a complete and revised version of your project documentation for the **European Weather Forecast** app. It addresses clarity, consistency, and formatting while adhering to best practices for README files.
 
----
 
 # European Weather Forecast
 
@@ -17,11 +15,6 @@ A web application that provides real-time weather forecasts for various European
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
 
 ---
-
-## Demo
-
-Check out the live demo of the app [here](http://127.0.0.1:5500/index.html) or deploy it on hosting platforms like [Netlify](https://www.netlify.com/) or [GitHub Pages](https://pages.github.com/).
-
 ---
 
 ## Installation
